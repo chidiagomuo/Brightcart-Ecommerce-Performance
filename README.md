@@ -82,6 +82,17 @@ Organic Search is the highest  source of traffic with 168 searches followed by D
 - The least is Tablet – 4% by Female, 5% by Male.
 - People could be surfing the net(site) while on the go.
 
+### Recommendation
+
+- The peak engagement hours is the morning hours, around 12am. Therefore, BrightCart should schedule promotions, email campaigns and website updates in the morning.
+
+- Organic Source should have the highest marketing resources followed by Direct source since they are the highest and second-highest traffic sources, respectively.
+- Top 10 sessions happened around 12am, 5am, 6am, 7am, 2pm, 3pm, 6pm and 9pm – therefore, marketing spend should be channeled to those times.
+
+- BrightCart should consider an even more effective promotions for Pais Ads, Referrals and Social Media sources.
+
+- BrightCart should introduce more female friendly promotions to encourage female customers .
+
 **Insight Visualisation Report**
 
 ![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Insight%20Visualisation%20Report.png)
