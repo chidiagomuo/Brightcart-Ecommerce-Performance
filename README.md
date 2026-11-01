@@ -16,3 +16,45 @@ Growth Journey & Milestones:
 
 2023: Introduced sustainable packaging options, appealing to eco-conscious shoppers.
 
+## Problem Statement
+
+BrightCart experiences significant fluctuations in website traffic depending on the time of day, day of the week, and marketing campaign timing. The company also lacks comprehensive insights into the sources of this traffic—whether users are coming from organic search, paid ads, social media, or email campaigns. 
+    
+### Key Challenges:
+
+Traffic Timing Uncertainty: Without analyzing peak engagement hours, BrightCart struggles to schedule promotions, email campaigns, and website updates effectively.
+
+Traffic Source Analysis: Marketing resources are not optimally allocated because the company cannot accurately measure the ROI of each traffic source.
+
+Conversion Optimization: High traffic at suboptimal times may not convert efficiently, leading to wasted marketing spend.
+
+Customer Behavior Insights: Limited understanding of when and from where customers interact with the platform reduces the effectiveness of personalization and targeted promotions.
+
+## Project Objectives
+
+- Identify peak traffic times and low-traffic periods to schedule marketing efforts effectively.
+
+- Analyze the sources of traffic (organic, paid, social, email) to measure channel effectiveness.
+
+- Correlate traffic timing with conversion rates to optimize promotional campaigns.
+
+- Segment traffic patterns by customer demographics and geographies for targeted marketing.
+
+- Provide actionable recommendations to improve ROI from traffic sources and enhance overall website performance.
+
+  ## Data Collection & Preparation 
+
+  The data for this project was collected and cleaned using power query on MS Excel.
+  The data contains 500 rows and 10 columns. The ,major columns includes but not limited to , Order ID, ......
+
+  ### Data Cleaning
+  (mention the errors in the data and how they were cleaned)
+
+  ## Data Analysis & Visualisation
+
+  Having cleaned the data, the data was analysed and the analysis and insights are as follows -
+
+  **Sources of Traffic**
+   
+
+
