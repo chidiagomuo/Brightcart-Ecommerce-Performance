@@ -64,9 +64,7 @@ Organic Search is the highest  source of traffic with 168 searches followed by D
 
 ![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Conversion%20Rates.png)
 
-- Across the traffic sources, less than 50% conversions were made.
-- Many people checked the sight without checking out.
-- The highest source of traffic – Organic Search – has the highest conversion.
+- More conversion happened around 12am.
 
 **Conversion by Traffic Source**
 
@@ -75,5 +73,20 @@ Organic Search is the highest  source of traffic with 168 searches followed by D
 - Across the traffic sources, less than 50% conversions were made.
 - Many people checked the sight without checking out.
 - The highest source of traffic – Organic Search – has the highest conversion.
+
+**Customer Demography**
+
+![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Customer%20Demography.png)
+
+- Traffic pattern show that more sessions were made with Mobile – 60% for Male, 49% for Female.
+- The least is Tablet – 4% by Female, 5% by Male.
+- People could be surfing the net(site) while on the go.
+
+**Insight Visualisation Report**
+
+![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Insight%20Visualisation%20Report.png)
+
+
+
 
 
