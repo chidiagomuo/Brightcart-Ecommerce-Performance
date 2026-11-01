@@ -55,6 +55,16 @@ Customer Behavior Insights: Limited understanding of when and from where custome
   Having cleaned the data, the data was analysed and the analysis and insights are as follows -
 
   **Sources of Traffic**
-   
 
+   ![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Sources%20of%20Traffic.png)
+
+Organic Search is the highest  source of traffic with 168 searches followed by Direct search with 152 searches while Paid Ads is the least traffic source with 35 searches
+
+**Conversion Rates**
+
+![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Conversion%20Rates.png)
+
+- Across the traffic sources, less than 50% conversions were made.
+- Many people checked the sight without checking out.
+- The highest source of traffic – Organic Search – has the highest conversion.
 
