@@ -68,3 +68,12 @@ Organic Search is the highest  source of traffic with 168 searches followed by D
 - Many people checked the sight without checking out.
 - The highest source of traffic – Organic Search – has the highest conversion.
 
+**Conversion by Traffic Source**
+
+![](https://github.com/chidiagomuo/Brightcart-Ecommerce-Performance/blob/main/Conversion%20by%20Traffic%20Source.png)
+
+- Across the traffic sources, less than 50% conversions were made.
+- Many people checked the sight without checking out.
+- The highest source of traffic – Organic Search – has the highest conversion.
+
+
